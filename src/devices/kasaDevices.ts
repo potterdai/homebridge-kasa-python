@@ -116,6 +116,7 @@ export const Plugs = [
   'KP125M',
   'KP401',
   'P100',
+  'P105',
   'P110',
   'P110M',
   'P115',
